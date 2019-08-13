@@ -7,5 +7,6 @@ Anyone who uses this code for publications should claim that this code belongs t
 
 # Instructions
 
-SA_Global: the method, SA Global Search, in the paper.
-SA_Local: the method, SA Local Search, in the paper.
+The folder "SA_Global": the method, SA Global Search, in the paper.
+
+The folder "SA_Local": the method, SA Local Search, in the paper.
